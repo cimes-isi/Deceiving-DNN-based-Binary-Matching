@@ -24,7 +24,7 @@ arch = ARCH_X86
 objdump = 'objdump'
 toolprefix = ''
 strip = 'strip'
-compiler = 'gcc-4.8'
+compiler = 'gcc'
 
 # ARM specific configurations
 ARM_maxDoublemovDist = 40   # Maximum search distance between movw and movt
